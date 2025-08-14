@@ -1,7 +1,10 @@
-Bank Marketing Campaign Analysis
+#Bank Marketing Campaign Analysis
+
 Introduction:
+
 This report presents a comprehensive analysis of a bank’s marketing campaign data. The primary goal is to understand customer behaviours and campaign effectiveness and economic indicators to understand customer behaviour and improve marketing strategies. The final goal is to predict whether a client subscribes to a term deposit based on historical data.
 This report aims to explore and analyse the dataset on Bank Marketing Campaign Analysis. Let's delve into the details:
+
 1.	Data Overview:
 •	The dataset contains detailed information about a bank’s marketing campaigns. 
 •	It includes customer details such as age, job, marital status, and education. Financial information is also provided, including whether the customer has a housing loan, personal loan, or any credit in default. Additionally, the dataset includes economic indicators like employment rate, price index, and consumer confidence index at the time of contact. The final outcome indicates whether the customer subscribed to a term deposit (1 for yes, 0 for no). There are no missing values in the dataset.
