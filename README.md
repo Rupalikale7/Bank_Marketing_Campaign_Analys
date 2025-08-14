@@ -1,4 +1,4 @@
-# Bank Marketing Campaign Analysis
+Bank Marketing Campaign Analysis
 Introduction:
 This report presents a comprehensive analysis of a bank’s marketing campaign data. The primary goal is to understand customer behaviours and campaign effectiveness and economic indicators to understand customer behaviour and improve marketing strategies. The final goal is to predict whether a client subscribes to a term deposit based on historical data.
 This report aims to explore and analyse the dataset on Bank Marketing Campaign Analysis. Let's delve into the details:
@@ -27,5 +27,4 @@ the target variable y (term deposit subscription).
 •	Subscription rates are similar across weekdays, ranging from about 10% to 12%, with no significant day-of-week advantage.
 8.	Conclusion :
 •	This project focused on analyzing the Bank Marketing Dataset, which contains information on clients, previous marketing campaigns, and whether the client subscribed to a term deposit (y). The main objective was to explore patterns, understand key influencing factors, and identify strategies to improve future campaign success.
-
 
